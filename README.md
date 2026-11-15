@@ -1,7 +1,6 @@
 # Logistische Abbildung – Periodenverdopplung, Fenster und Multistabilität – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-logistische-abbildung-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-logistische-abbildung-demo.streamlit.app/)**
 
 Stück 2 der Linie **Dynamische Systeme** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Es setzt auf [fixpunkt-iteration-demo](https://github.com/sebastian-hanisch/fixpunkt-iteration-demo) auf: Dort ist ein Fixpunkt stabil, solange der Eigenwert (die Ableitung) zwischen −1 und 1 liegt, aber die lineare Iteration kann nicht sagen, was beim Wert −1 passiert. Hier geschieht es: ein 2-Zyklus entsteht, und das wiederholt sich. Nachfolger: [lyapunov-chaos-demo](https://github.com/sebastian-hanisch/lyapunov-chaos-demo) misst das Chaos, [gleitkomma-chaos-demo](https://github.com/sebastian-hanisch/gleitkomma-chaos-demo) zeigt, warum eine Rechnerbahn immer periodisch wird.
 
